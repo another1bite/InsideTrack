@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0412\u0430\u0441\u0438\u043B\u0438\u0439 \u041A\u0430\u0440\u044F\u0433\u0438\u043D\\source\\repos\\KP_WINFORM_RACE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{744C02AA-F9F1-4815-AED0-DE0264BFC37F}|KP_WINFORM_RACE\\KP_WINFORM_RACE.csproj|c:\\users\\\u0432\u0430\u0441\u0438\u043B\u0438\u0439 \u043A\u0430\u0440\u044F\u0433\u0438\u043D\\source\\repos\\kp_winform_race\\kp_winform_race\\setmoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744C02AA-F9F1-4815-AED0-DE0264BFC37F}|KP_WINFORM_RACE\\KP_WINFORM_RACE.csproj|solutionrelative:kp_winform_race\\setmoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744C02AA-F9F1-4815-AED0-DE0264BFC37F}|KP_WINFORM_RACE\\KP_WINFORM_RACE.csproj|C:\\Users\\\u0412\u0430\u0441\u0438\u043B\u0438\u0439 \u041A\u0430\u0440\u044F\u0433\u0438\u043D\\source\\repos\\KP_WINFORM_RACE\\kp_winform_race\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744C02AA-F9F1-4815-AED0-DE0264BFC37F}|KP_WINFORM_RACE\\KP_WINFORM_RACE.csproj|solutionrelative:kp_winform_race\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744C02AA-F9F1-4815-AED0-DE0264BFC37F}|KP_WINFORM_RACE\\KP_WINFORM_RACE.csproj|C:\\Users\\\u0412\u0430\u0441\u0438\u043B\u0438\u0439 \u041A\u0430\u0440\u044F\u0433\u0438\u043D\\source\\repos\\KP_WINFORM_RACE\\kp_winform_race\\setmoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{744C02AA-F9F1-4815-AED0-DE0264BFC37F}|KP_WINFORM_RACE\\KP_WINFORM_RACE.csproj|solutionrelative:kp_winform_race\\setmoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744C02AA-F9F1-4815-AED0-DE0264BFC37F}|KP_WINFORM_RACE\\KP_WINFORM_RACE.csproj|C:\\Users\\\u0412\u0430\u0441\u0438\u043B\u0438\u0439 \u041A\u0430\u0440\u044F\u0433\u0438\u043D\\source\\repos\\KP_WINFORM_RACE\\kp_winform_race\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{744C02AA-F9F1-4815-AED0-DE0264BFC37F}|KP_WINFORM_RACE\\KP_WINFORM_RACE.csproj|solutionrelative:kp_winform_race\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0430\u0441\u0438\u043B\u0438\u0439 \u041A\u0430\u0440\u044F\u0433\u0438\u043D\\source\\repos\\KP_WINFORM_RACE\\KP_WINFORM_RACE\\Menu.cs",
+              "RelativeDocumentMoniker": "KP_WINFORM_RACE\\Menu.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0430\u0441\u0438\u043B\u0438\u0439 \u041A\u0430\u0440\u044F\u0433\u0438\u043D\\source\\repos\\KP_WINFORM_RACE\\KP_WINFORM_RACE\\Menu.cs",
+              "RelativeToolTip": "KP_WINFORM_RACE\\Menu.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAKsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:39:52.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0430\u0441\u0438\u043B\u0438\u0439 \u041A\u0430\u0440\u044F\u0433\u0438\u043D\\source\\repos\\KP_WINFORM_RACE\\KP_WINFORM_RACE\\Menu.cs",
+              "RelativeDocumentMoniker": "KP_WINFORM_RACE\\Menu.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0430\u0441\u0438\u043B\u0438\u0439 \u041A\u0430\u0440\u044F\u0433\u0438\u043D\\source\\repos\\KP_WINFORM_RACE\\KP_WINFORM_RACE\\Menu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "KP_WINFORM_RACE\\Menu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:39:43.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SetMoney.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0430\u0441\u0438\u043B\u0438\u0439 \u041A\u0430\u0440\u044F\u0433\u0438\u043D\\source\\repos\\KP_WINFORM_RACE\\KP_WINFORM_RACE\\SetMoney.cs",
+              "RelativeDocumentMoniker": "KP_WINFORM_RACE\\SetMoney.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0430\u0441\u0438\u043B\u0438\u0439 \u041A\u0430\u0440\u044F\u0433\u0438\u043D\\source\\repos\\KP_WINFORM_RACE\\KP_WINFORM_RACE\\SetMoney.cs",
+              "RelativeToolTip": "KP_WINFORM_RACE\\SetMoney.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:38:06.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SetMoney.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0430\u0441\u0438\u043B\u0438\u0439 \u041A\u0430\u0440\u044F\u0433\u0438\u043D\\source\\repos\\KP_WINFORM_RACE\\KP_WINFORM_RACE\\SetMoney.cs",
+              "RelativeDocumentMoniker": "KP_WINFORM_RACE\\SetMoney.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0430\u0441\u0438\u043B\u0438\u0439 \u041A\u0430\u0440\u044F\u0433\u0438\u043D\\source\\repos\\KP_WINFORM_RACE_2\\KP_WINFORM_RACE\\SetMoney.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\KP_WINFORM_RACE_2\\KP_WINFORM_RACE\\SetMoney.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:37:58.69Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+C:\Users\kaa.24\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\bin\Debug\KP_WINFORM_RACE.exe.config
+C:\Users\kaa.24\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\bin\Debug\KP_WINFORM_RACE.exe
+C:\Users\kaa.24\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\bin\Debug\KP_WINFORM_RACE.pdb
+C:\Users\kaa.24\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.csproj.AssemblyReference.cache
+C:\Users\kaa.24\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaa.24\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.Form1.resources
+C:\Users\kaa.24\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.Properties.Resources.resources
+C:\Users\kaa.24\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.csproj.GenerateResource.cache
+C:\Users\kaa.24\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.csproj.CoreCompileInputs.cache
+C:\Users\kaa.24\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.exe
+C:\Users\kaa.24\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.pdb
+C:\Users\kaa.24\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.Game.resources
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\bin\Debug\KP_WINFORM_RACE.exe.config
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\bin\Debug\KP_WINFORM_RACE.exe
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\bin\Debug\KP_WINFORM_RACE.pdb
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.csproj.AssemblyReference.cache
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.Menu.resources
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.Game.resources
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.Properties.Resources.resources
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.csproj.GenerateResource.cache
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.csproj.CoreCompileInputs.cache
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.exe
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.pdb
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\obj\Debug\KP_WINFO.5B7DA794.Up2Date
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.SetMoney.resources
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE_2\KP_WINFORM_RACE\bin\Debug\KP_WINFORM_RACE.exe.config
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE_2\KP_WINFORM_RACE\bin\Debug\KP_WINFORM_RACE.exe
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE_2\KP_WINFORM_RACE\bin\Debug\KP_WINFORM_RACE.pdb
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE_2\KP_WINFORM_RACE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE_2\KP_WINFORM_RACE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE_2\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.csproj.AssemblyReference.cache
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE_2\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.Menu.resources
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE_2\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.Game.resources
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE_2\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.Properties.Resources.resources
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE_2\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.SetMoney.resources
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE_2\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.csproj.GenerateResource.cache
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE_2\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.csproj.CoreCompileInputs.cache
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE_2\KP_WINFORM_RACE\obj\Debug\KP_WINFO.5B7DA794.Up2Date
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE_2\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.exe
+C:\Users\Василий Карягин\source\repos\KP_WINFORM_RACE_2\KP_WINFORM_RACE\obj\Debug\KP_WINFORM_RACE.pdb
